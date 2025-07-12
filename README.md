@@ -3,6 +3,10 @@
 
 A web-based platform that allows users to **connect and exchange skills** with others in their community. Built using **Python and Streamlit**, it enables users to create public profiles, send swap requests, and manage their skill offerings – with a powerful admin dashboard to moderate and maintain the platform.
 
+## 📺 Demo Video
+
+🎥 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1lgWVaT9wfShc5wMsi6NfO9ydzFoQBdIA/view?usp=sharing)
+
 ---
 
 ## 🚀 Features
