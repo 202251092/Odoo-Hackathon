@@ -1,0 +1,34 @@
+[
+    {
+        "email": "a@gmail.com",
+        "name": "Aarav",
+        "location": "gandhinagar",
+        "skills_offered": [
+            "python",
+            "HTML",
+            "CSS"
+        ],
+        "skills_wanted": [
+            "JavaScripy"
+        ],
+        "availability": "Weekends",
+        "is_public": true,
+        "banned": false
+    },
+    {
+        "email": "manav@gmail.com",
+        "name": "Manav",
+        "location": "Ahmedabad",
+        "skills_offered": [
+            "AI/ML",
+            "Cybersecuity"
+        ],
+        "skills_wanted": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "availability": "Evenings",
+        "is_public": true
+    }
+]

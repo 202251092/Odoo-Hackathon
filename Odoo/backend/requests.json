@@ -1,0 +1,26 @@
+[
+    {
+        "from": "manav@gmail.com",
+        "to": "a@gmail.com",
+        "offered": "AI/ML",
+        "wanted": "python",
+        "note": "",
+        "status": "rejected"
+    },
+    {
+        "from": "a@gmail.com",
+        "to": "manav@gmail.com",
+        "offered": "HTML",
+        "wanted": "Cybersecuity",
+        "note": "hey there....",
+        "status": "rejected"
+    },
+    {
+        "from": "manav@gmail.com",
+        "to": "a@gmail.com",
+        "offered": "AI/ML",
+        "wanted": "python",
+        "note": "",
+        "status": "accepted"
+    }
+]
