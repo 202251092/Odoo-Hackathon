@@ -16,7 +16,7 @@ A web-based platform that allows users to **connect and exchange skills** with o
 - **View received requests** and **accept/reject** them.
 
 ### 🔐 Admin Features
-- Special login with `admin@example.com` and password `admin123`.
+- Special login with Admin.
 - **View all users and their details**.
 - **Ban/unban users**. Banned users:
   - Cannot log in or access the platform.
@@ -101,7 +101,7 @@ streamlit run app.py
 
 ## 🙌 Contributors
 
-* 👨‍💻 \Nipur Patel (nipurpatel2004@gmail.com) – Backend, Frontend, UX
+* 👨‍💻 Nipur Patel (nipurpatel2004@gmail.com) – Backend, Frontend, UX
 * 🤝 Contributions welcome!
 
 ---
